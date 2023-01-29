@@ -1,0 +1,17 @@
+Packages
+
+- math
+- numpy
+- pandas
+- random
+- scipy (using constants)
+
+Advanced Techniques
+
+- Github Repository: saving and sharing iterations of code.
+- Pandas: Creating dataframes for each cosmic ray, pickling these and reading them for analysis including printing the dataframe.
+- Inheritance: Making use of inheritance classes to give objects further parameters.
+- Pytest: Writing test functions to check that functions are doing what they are supposed to.
+- 3 Dimensional Figures: Better displays particle trajectories.
+- Gaussian Distribution: using gaussian function of the random package to generate a variable weighted interaction probability.
+- Relativity: Implementing Lorentz factor to calculate total energy for relativistic particles by making use of relativistic mass.
